@@ -1,0 +1,19 @@
+{
+  "name": "python-text-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schmaits/python-text-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schmaits/python-text-game/issues"
+  },
+  "homepage": "https://github.com/schmaits/python-text-game#readme"
+}
