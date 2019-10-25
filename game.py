@@ -37,7 +37,7 @@ def title_screen_selections():
 		elif option.lower() == ('quit'):
 			sys.exit()
 
-def title_screen();
+def title_screen():
 	os.system('clear')
 	print('########################')
 	print('# Welcome to the game! #')
