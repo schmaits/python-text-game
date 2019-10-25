@@ -8,3 +8,12 @@ import time
 import random
 
 screen_width = 100
+
+##### Player Setup #####
+class player:
+	def __init__(self):
+		self.name = ''
+		self.hp = 0
+		self.mp = 0
+		self.status_effects = []
+		
