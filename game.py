@@ -46,3 +46,12 @@ def title_screen():
 	print('        - Help -        ')
 	print('        - Quit -        ')
 	title_screen_selections()
+
+def help_menu():
+	print('########################')
+	print('# Welcome to the game! #')
+	print('########################')
+	print('- Type your commands to action them')
+	print('- Use north, south, east, west to move')
+	print('- Use look to inspect something')
+	title_screen_selections()
